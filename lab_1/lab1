@@ -1,0 +1,7 @@
+SOME SIMPLE UNIX/LINUX COMMANDS...
+ls - list the files in the current directory
+cat - concatenate and displays file contents
+rm - remove a file
+cp - copy source file to target file
+mv - move a file 
+man - display the reference manual pages by keyword
