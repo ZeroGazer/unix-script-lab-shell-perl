@@ -1,0 +1,5 @@
+COMP2021 is an intereting course. It mainly introduces some basic knowledge about Unix and script programming. Through this course I get to know something about Unix geek culture.
+
+For example, there is a "war" simply about choices of editors, vi or emacs-bad-editor. Seems that endless debate goes on upon their advatanges, disdvantages. This actually sounds pretty religious. LOL!
+
+In general, vi is faster, but with emacs-bad-editor, almost everything you want to do can be done there. They are both good editors in Unix.
