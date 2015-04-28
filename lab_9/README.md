@@ -8,12 +8,12 @@ table.The below are some screenshots of the finished CGI page.
 
 Students displayed in the original order same as the text file:
 
-<img src="lab_9/images/default.png" alt="Default screen" />
+<img src="images/default.png" alt="Default screen" />
 
 Sorted by Name:
 
-<img src="lab_9/images/name.png" alt="Sorted by name" /> 
+<img src="images/name.png" alt="Sorted by name" /> 
 
 Sorted by ID:
 
-<img src="lab_9/images/id.png" alt="Sorted by id" /> 
+<img src="images/id.png" alt="Sorted by id" /> 
